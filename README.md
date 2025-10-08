@@ -7,41 +7,13 @@
 </p>
 
 
-<div align="center">
-  <svg width="100%" height="70" viewBox="0 0 820 70" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" role="img" aria-label="petal divider">
-    <line x1="30" y1="35" x2="790" y2="35" stroke="#eaeaea" stroke-width="1.2"/>
-    <g transform="translate(410,35)">
-      <circle r="5.5" fill="#ff8fab"/>
-      <ellipse rx="14" ry="5" fill="#ffd6e0" transform="rotate(0)"/>
-      <ellipse rx="14" ry="5" fill="#ffd6e0" transform="rotate(45)"/>
-      <ellipse rx="14" ry="5" fill="#ffd6e0" transform="rotate(90)"/>
-      <ellipse rx="14" ry="5" fill="#ffd6e0" transform="rotate(135)"/>
-    </g>
-  </svg>
-</div>
+---
 
 ### About me
 
 I build practical, end-to-end web products and small tools. On the web side I work with **Next.js**, **Nest.js**, **Prisma**, and **PostgreSQL**. I also have hands-on experience with realtime features over Socket.IO and mobile UI in Flutter. I am expanding my applied AI skills in Python and enjoy wiring ML features into product workflows when it improves the user experience.
 
-<p align="center">
-  <svg width="820" height="80" viewBox="0 0 820 80" xmlns="http://www.w3.org/2000/svg">
-    <rect width="820" height="80" fill="white"/>
-    <!-- line -->
-    <line x1="40" y1="40" x2="780" y2="40" stroke="#ddd" stroke-width="1.2"/>
-    <!-- center flower -->
-    <g transform="translate(410,40)">
-      <circle r="6" fill="#ff8fab"/>
-      <ellipse rx="16" ry="6" fill="#ffd6e0" transform="rotate(0)"/>
-      <ellipse rx="16" ry="6" fill="#ffd6e0" transform="rotate(45)"/>
-      <ellipse rx="16" ry="6" fill="#ffd6e0" transform="rotate(90)"/>
-      <ellipse rx="16" ry="6" fill="#ffd6e0" transform="rotate(135)"/>
-    </g>
-    <!-- side buds -->
-    <circle cx="170" cy="40" r="4" fill="#ff8fab"/>
-    <circle cx="650" cy="40" r="4" fill="#ff8fab"/>
-  </svg>
-</p>
+---
 
 ### Tech I use
 
