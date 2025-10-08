@@ -10,11 +10,9 @@
 
 
 
-
-<!-- Centered intro typing line (white theme; blue-veil text) -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=900&color=8690A2&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=84&lines=Hi%2C+I+am+Atika+Hossain+Ainun.;Junior+Full-Stack+%2F+Web+%2F+Cross-Platform+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2000&pause=1200&color=D2C296&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+I'm+Atika+Hossain+Ainun.;How+are+you+doing+today%3F)](https://git.io/typing-svg)
 
 </div>
 
