@@ -1,9 +1,10 @@
 <!-- Centered intro -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2400&pause=700&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=120&lines=I+build+web+products+and+small+tools;Next.js+%7C+Nest.js+%7C+Prisma+%7C+PostgreSQL;Also+ship+classic+PHP%2FMySQL+when+needed;Realtime+features+with+Socket.IO;Mobile+UI+with+Flutter;From+schema+->+API+->+front-end+polish;Clear+READMEs+so+others+can+run+my+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=900&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=90&lines=Hi%2C+I+am+Atika+Hossain+Ainun.;Junior+Full-Stack+%2F+Web+Developer+%2F+Cross-Platform+Developer)](https://git.io/typing-svg)
 
 </div>
+
 
 
 ---
