@@ -6,7 +6,7 @@
 
 ### About me
 
-I build web products and small tools, and I care about usable, reliable systems. On the web side I work with **Next.js**, **Nest.js**, **Prisma**, and **PostgreSQL**. I have hands-on experience with realtime features over Socket.IO and mobile UI in Flutter. I am expanding my applied AI skills in Python and enjoy wiring ML features into product workflows when it clearly improves the user experience.
+I build practical, end-to-end web products and small tools. I care about usable, reliable systems. On the web side I work with **Next.js**, **Nest.js**, **Prisma**, and **PostgreSQL**. I have hands-on experience with realtime features over Socket.IO and mobile UI in Flutter. I am expanding my applied AI skills in Python and enjoy wiring ML features into product workflows when it improves the user experience.
 
 ---
 
