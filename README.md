@@ -52,17 +52,17 @@ I build practical, end-to-end web products and small tools. On the web side I wo
 
 
 ### Recent projects
-- **Yummunity Blog** — full-stack food platform  
+- **Yummunity Blog** : full-stack food platform  
   *Next.js, React Query, SCSS/Bulma · Nest.js, Prisma, PostgreSQL*  
   Browse recipes and share your own; clean UI + typed backend and ORM.  
   [`/Yummunity-blog`](https://github.com/ainun-11/Yummunity-blog)
 
-- **Scribbler-Realtime** — tiny realtime event relay  
+- **Scribbler-Realtime** : tiny realtime event relay  
   *Node.js, Express, Socket.IO; health-check endpoint*  
   Drop-in backend for collaborative canvases or cursors.  
   [`/scribbler-realtime`](https://github.com/ainun-11/scribbler-realtime)
 
-- **TravelStay Bangladesh** — Flutter travel/stay UI  
+- **TravelStay Bangladesh** : Flutter travel/stay UI  
   *Dart (Flutter) with Android/iOS scaffolding*  
   [`/travelstay-bangladesh`](https://github.com/ainun-11/travelstay-bangladesh)
 
