@@ -88,7 +88,19 @@ I build practical, end-to-end web products and small tools. On the web side I wo
 ---
 
 ### Contact
-- Linkedin: www.linkedin.com/in/atika-h-ainun-a962802b1 
+- Linkedin: www.linkedin.com/in/atika-h-ainun-a962802b1
+  <p align="center">
+  <a href="https://www.linkedin.com/in/atika-h-ainun-a962802b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-9cf?style=for-the-badge&labelColor=white&logo=linkedin&logoColor=0A66C2">
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-ffe?style=for-the-badge&labelColor=white&logo=gmail&logoColor=EA4335">
+  </a>
+  <a href="https://your-portfolio-url">
+    <img src="https://img.shields.io/badge/Portfolio-Open-ccf?style=for-the-badge&labelColor=white&logo=vercel&logoColor=000000">
+  </a>
+</p>
+
 
 
 
