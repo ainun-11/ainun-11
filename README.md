@@ -23,6 +23,24 @@ I build practical, end-to-end web products and small tools. On the web side I wo
 ---
 
 ### Tech I use
+<p align="center">
+  <svg width="820" height="80" viewBox="0 0 820 80" xmlns="http://www.w3.org/2000/svg">
+    <rect width="820" height="80" fill="white"/>
+    <!-- line -->
+    <line x1="40" y1="40" x2="780" y2="40" stroke="#ddd" stroke-width="1.2"/>
+    <!-- center flower -->
+    <g transform="translate(410,40)">
+      <circle r="6" fill="#ff8fab"/>
+      <ellipse rx="16" ry="6" fill="#ffd6e0" transform="rotate(0)"/>
+      <ellipse rx="16" ry="6" fill="#ffd6e0" transform="rotate(45)"/>
+      <ellipse rx="16" ry="6" fill="#ffd6e0" transform="rotate(90)"/>
+      <ellipse rx="16" ry="6" fill="#ffd6e0" transform="rotate(135)"/>
+    </g>
+    <!-- side buds -->
+    <circle cx="170" cy="40" r="4" fill="#ff8fab"/>
+    <circle cx="650" cy="40" r="4" fill="#ff8fab"/>
+  </svg>
+</p>
 
 **Development Core**
 ---
