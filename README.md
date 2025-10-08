@@ -6,12 +6,6 @@
   />
 </p>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=900&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=90&lines=Hi%2C+I+am+Atika+Hossain+Ainun.;Junior+Full-Stack+%2F+Web+%2F+Cross-Platform+Developer)](https://git.io/typing-svg)
-
-</div>
-
 
 
 ---
@@ -20,9 +14,6 @@
 
 I build practical, end-to-end web products and small tools. On the web side I work with **Next.js**, **Nest.js**, **Prisma**, and **PostgreSQL**. I also have hands-on experience with realtime features over Socket.IO and mobile UI in Flutter. I am expanding my applied AI skills in Python and enjoy wiring ML features into product workflows when it improves the user experience.
 
----
-
-### Tech I use
 <p align="center">
   <svg width="820" height="80" viewBox="0 0 820 80" xmlns="http://www.w3.org/2000/svg">
     <rect width="820" height="80" fill="white"/>
@@ -41,6 +32,9 @@ I build practical, end-to-end web products and small tools. On the web side I wo
     <circle cx="650" cy="40" r="4" fill="#ff8fab"/>
   </svg>
 </p>
+
+### Tech I use
+
 
 **Development Core**
 ---
