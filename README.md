@@ -127,10 +127,7 @@ I build practical, end-to-end web products and small tools. On the web side I wo
   *Dart (Flutter) with Android/iOS scaffolding*  
   [`/travelstay-bangladesh`](https://github.com/ainun-11/travelstay-bangladesh)
 
-<!-- Optional GitHub cards (white theme, palette titles) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainun-11&layout=compact&langs_count=8&hide=Jupyter%20Notebook&card_width=420&title_color=ab8b8e&text_color=2b2b2b&icon_color=8690a2&bg_color=ffffff" alt="Top Languages" />
-</p>
+
 
 <!-- Petal divider -->
 <div align="center">
