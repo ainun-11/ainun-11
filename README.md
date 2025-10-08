@@ -23,13 +23,13 @@
     
 
 <rect x="20" y="20" rx="18" ry="18" width="1160" height="180" fill="url(#featherGradient)"/>
-    <rect x="20" y="20" rx="18" ry="18" width="1160" height="180" fill="none" stroke="rgba(0,0,0,0.08)"/>
-    <rect x="20" y="20" rx="18" ry="18" width="1160" height="180" fill="url(#shine)"/>
+<rect x="20" y="20" rx="18" ry="18" width="1160" height="180" fill="none" stroke="rgba(0,0,0,0.08)"/>
+<rect x="20" y="20" rx="18" ry="18" width="1160" height="180" fill="url(#shine)"/>
 
 <text x="600" y="105" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
-          font-weight="800" font-size="46" text-anchor="middle" fill="#2b2b2b">Atika Hossain Ainun</text>
+font-weight="800" font-size="46" text-anchor="middle" fill="#2b2b2b">Atika Hossain Ainun</text>
 <text x="600" y="138" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
-          font-weight="600" font-size="20" text-anchor="middle" fill="#3a3a3a">Junior Full-Stack / Web / Cross-Platform Developer</text>
+font-weight="600" font-size="20" text-anchor="middle" fill="#3a3a3a">Junior Full-Stack / Web / Cross-Platform Developer</text>
      
   </svg>
 </p>
