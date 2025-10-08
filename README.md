@@ -45,10 +45,6 @@ I build practical, end-to-end web apps and small tools. Recent work spans a full
 
 ---
 
-### What I’m looking for
-- **Web/Full-Stack Developer (React/Next.js, Node/Nest, or PHP)** — internships or junior roles
-- Teams that value code reviews, readable docs, and shipping useful features
-
 ### Contact
 - Linkedin: www.linkedin.com/in/atika-h-ainun-a962802b1 
 - ORCID: https://orcid.org/0009-0002-2614-6377
