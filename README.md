@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2000&pause=1200&color=D2C296&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+I'm+Atika+!!.;How+are+you+doing+today%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2000&pause=1200&color=D2C296&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+I'm+Atika+!;How+are+you+doing+today%3F)](https://git.io/typing-svg)
 
 </div>
 
