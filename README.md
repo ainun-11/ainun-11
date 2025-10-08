@@ -30,6 +30,7 @@ I build practical, end-to-end web apps and small tools. Recent work spans a full
 ---
 
 ### Tech I use
+![Python](https://img.shields.io/badge/JavaScript-333?logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333?logo=typescript)
 ![React](https://img.shields.io/badge/React-333?logo=react)
