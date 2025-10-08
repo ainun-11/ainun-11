@@ -1,4 +1,11 @@
 <!-- Centered intro -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=140&section=header&text=Atika%20Hossain%20Ainun&fontColor=000000&fontSize=42&desc=Junior%20Full-Stack%20%2F%20Web%20%2F%20Cross-Platform%20Developer&descAlignY=70&descAlign=50&animation=fadeIn"
+    alt="Atika Hossain Ainun"
+  />
+</p>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=900&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=90&lines=Hi%2C+I+am+Atika+Hossain+Ainun.;Junior+Full-Stack+%2F+Web+%2F+Cross-Platform+Developer)](https://git.io/typing-svg)
