@@ -5,34 +5,9 @@
 
 <!-- Feather-palette banner (responsive) -->
 <p align="center">
-  <svg viewBox="0 0 1200 220" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Atika Hossain Ainun banner">  
-    <defs>
-      <linearGradient id="featherGradient" x1="0%" y1="100%" x2="100%" y2="0%">
-        <stop offset="0%"   stop-color="#ab8b8e"/>
-        <stop offset="30%"  stop-color="#8690a2"/>
-        <stop offset="55%"  stop-color="#d2c296"/>
-        <stop offset="78%"  stop-color="#b4d1d3"/>
-        <stop offset="100%" stop-color="#e0ded4"/>
-      </linearGradient>
-      <linearGradient id="shine" x1="30%" y1="0%" x2="60%" y2="100%">
-        <stop offset="0%"   stop-color="#ffffff" stop-opacity="0.28"/>
-        <stop offset="55%"  stop-color="#ffffff" stop-opacity="0.06"/>
-        <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
-      </linearGradient>
-      </defs> 
-    
-
-<rect x="20" y="20" rx="18" ry="18" width="1160" height="180" fill="url(#featherGradient)"/>
-<rect x="20" y="20" rx="18" ry="18" width="1160" height="180" fill="none" stroke="rgba(0,0,0,0.08)"/>
-<rect x="20" y="20" rx="18" ry="18" width="1160" height="180" fill="url(#shine)"/>
-
-<text x="600" y="105" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
-font-weight="800" font-size="46" text-anchor="middle" fill="#2b2b2b">Atika Hossain Ainun</text>
-<text x="600" y="138" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
-font-weight="600" font-size="20" text-anchor="middle" fill="#3a3a3a">Junior Full-Stack / Web / Cross-Platform Developer</text>
-     
-  </svg>
+  <img src="./assets/banner.svg" alt="Atika Hossain Ainun banner" width="100%" height="180">
 </p>
+
 
 
 
