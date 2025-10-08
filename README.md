@@ -1,7 +1,7 @@
 <!-- Centered intro -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=140&section=header&text=Atika%20Hossain%20Ainun&fontColor=000000&fontSize=42&desc=Junior%20Full-Stack%20%2F%20Web%20%2F%20Cross-Platform%20Developer&descAlignY=70&descAlign=50&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=140&section=header&text=Atika%20Hossain%20Ainun&fontColor=F4C2C2&fontSize=42&desc=Junior%20Full-Stack%20%2F%20Web%20%2F%20Cross-Platform%20Developer&descAlignY=70&descAlign=50&animation=fadeIn"
     alt="Atika Hossain Ainun"
   />
 </p>
