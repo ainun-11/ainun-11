@@ -72,7 +72,7 @@ I build web products and small tools, and I care about usable, reliable systems.
 
 ### Contact
 - Linkedin: www.linkedin.com/in/atika-h-ainun-a962802b1 
-- ORCID: https://orcid.org/0009-0002-2614-6377
+
 
 
 
