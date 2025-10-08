@@ -53,6 +53,5 @@ I build practical, end-to-end web apps and small tools. Recent work spans a full
 - Linkedin: www.linkedin.com/in/atika-h-ainun-a962802b1 
 - ORCID: https://orcid.org/0009-0002-2614-6377
 
-<!-- Optional: GitHub cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=ainun-11&show_icons=true" alt="GitHub stats" />
+
 
