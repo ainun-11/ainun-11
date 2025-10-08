@@ -1,6 +1,10 @@
 <!-- Centered intro -->
-<h1 align="center">Atika Hossain Ainun</h1>
-<p align="center"><b>Junior Full-Stack / Web Developer</b> — React/Next.js · Node/Nest · PHP/MySQL · Flutter</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2400&pause=700&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=120&lines=I+build+web+products+and+small+tools;Next.js+%7C+Nest.js+%7C+Prisma+%7C+PostgreSQL;Also+ship+classic+PHP%2FMySQL+when+needed;Realtime+features+with+Socket.IO;Mobile+UI+with+Flutter;From+schema+->+API+->+front-end+polish;Clear+READMEs+so+others+can+run+my+code)](https://git.io/typing-svg)
+
+</div>
+
 
 ---
 
@@ -43,8 +47,11 @@ I build practical, end-to-end web products and small tools. On the web side I wo
 [![LangChain](https://img.shields.io/badge/LangChain-333?logo=chainlink&logoColor=white)](https://www.langchain.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-333?logo=jupyter&logoColor=white)](https://jupyter.org/)
 
+---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainun-11&layout=compact&card_width=420&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ainun-11&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff)
 
 
 ---
