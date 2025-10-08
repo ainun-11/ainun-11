@@ -28,7 +28,7 @@ I build web products and small tools, and I care about usable, reliable systems.
 [![PHP](https://img.shields.io/badge/PHP-333?logo=php&logoColor=white)](https://www.php.net/)
 [![Flutter](https://img.shields.io/badge/Flutter-333?logo=flutter&logoColor=white)](https://flutter.dev/)
 
-**Also (AI/ML)**
+**AI/ML**
 [![Python](https://img.shields.io/badge/Python-333?logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-333?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-333?logo=pytorch&logoColor=white)](https://pytorch.org/)
