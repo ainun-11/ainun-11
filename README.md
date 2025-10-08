@@ -49,10 +49,6 @@ I build practical, end-to-end web products and small tools. On the web side I wo
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainun-11&layout=compact&card_width=420&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff)
-
-
----
 
 ### Recent projects
 - **Yummunity Blog** — full-stack food platform  
