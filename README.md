@@ -55,11 +55,6 @@ I build practical, end-to-end web products and small tools. I care about usable,
   Browse recipes and share your own; clean UI + typed backend and ORM.  
   [`/Yummunity-blog`](https://github.com/ainun-11/Yummunity-blog)
 
-- **DermaCore** — PHP + MySQL skincare portal  
-  *Auth, profiles, content/blog, search; XAMPP-friendly*  
-  Straightforward PHP structure with SQL dump for quick setup.  
-  [`/DermaCore`](https://github.com/ainun-11/DermaCore)
-
 - **Scribbler-Realtime** — tiny realtime event relay  
   *Node.js, Express, Socket.IO; health-check endpoint*  
   Drop-in backend for collaborative canvases or cursors.  
