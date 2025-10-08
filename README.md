@@ -96,9 +96,6 @@ I build practical, end-to-end web products and small tools. On the web side I wo
   <a href="mailto:atikaainun11@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-ffe?style=for-the-badge&labelColor=white&logo=gmail&logoColor=EA4335">
   </a>
-  ## <a href="https://your-portfolio-url">
-    ## <img src="https://img.shields.io/badge/Portfolio-Open-ccf?style=for-the-badge&labelColor=white&logo=vercel&logoColor=000000">
-  </a>
 </p>
 
 
