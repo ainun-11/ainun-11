@@ -5,7 +5,7 @@
 ---
 
 ### About me
-I build practical, end-to-end web apps and small tools. Recent work spans a full-stack recipe platform (Next.js + Nest.js + Prisma + PostgreSQL), classic PHP/MySQL sites with auth and admin areas, a realtime Socket.IO service you can drop behind a whiteboard/drawing UI, and a Flutter travel UI. I’m comfortable owning features from DB schema to UI polish and writing clear READMEs so others can run my code.
+I build practical, end-to-end web apps and small tools. Recent work spans a full-stack recipe platform (Next.js + Nest.js + Prisma + PostgreSQL), classic PHP/MySQL sites with auth and admin areas, a realtime Socket.IO service you can drop behind a whiteboard/drawing UI, and a Flutter travel UI. I’m comfortable owning features from DB schema to UI polish.
 
 ### Selected projects
 - **Yummunity Blog** — full-stack food platform  
