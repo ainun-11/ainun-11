@@ -88,7 +88,6 @@ I build practical, end-to-end web products and small tools. On the web side I wo
 ---
 
 ### Contact
-- Linkedin: www.linkedin.com/in/atika-h-ainun-a962802b1
   <p align="center">
   <a href="https://www.linkedin.com/in/atika-h-ainun-a962802b1">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-9cf?style=for-the-badge&labelColor=white&logo=linkedin&logoColor=0A66C2">
