@@ -12,7 +12,7 @@ I build practical, end-to-end web products and small tools. I care about usable,
 
 ### Tech I use
 
-** Development Core**
+**Development Core**
 ---
 
 [![Python](https://img.shields.io/badge/Python-333?logo=python&logoColor=white)](https://www.python.org/)
