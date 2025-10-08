@@ -26,6 +26,7 @@ I build practical, end-to-end web products and small tools. I care about usable,
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-333?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-333?logo=socketdotio&logoColor=white)](https://socket.io/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![SCSS](https://img.shields.io/badge/SCSS-333?logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Bulma](https://img.shields.io/badge/Bulma-333?logo=bulma&logoColor=white)](https://bulma.io/)
 [![PHP](https://img.shields.io/badge/PHP-333?logo=php&logoColor=white)](https://www.php.net/)
