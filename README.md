@@ -7,8 +7,18 @@
 </p>
 
 
-
----
+<div align="center">
+  <svg width="100%" height="70" viewBox="0 0 820 70" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" role="img" aria-label="petal divider">
+    <line x1="30" y1="35" x2="790" y2="35" stroke="#eaeaea" stroke-width="1.2"/>
+    <g transform="translate(410,35)">
+      <circle r="5.5" fill="#ff8fab"/>
+      <ellipse rx="14" ry="5" fill="#ffd6e0" transform="rotate(0)"/>
+      <ellipse rx="14" ry="5" fill="#ffd6e0" transform="rotate(45)"/>
+      <ellipse rx="14" ry="5" fill="#ffd6e0" transform="rotate(90)"/>
+      <ellipse rx="14" ry="5" fill="#ffd6e0" transform="rotate(135)"/>
+    </g>
+  </svg>
+</div>
 
 ### About me
 
