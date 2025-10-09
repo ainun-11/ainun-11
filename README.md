@@ -35,7 +35,7 @@
   </svg>
 </div>
 
----
+
 
 ### About me
 
@@ -55,7 +55,7 @@ I build practical, end-to-end web products and small tools that feel reliable an
   </svg>
 </div>
 
----
+
 
 ### Tech I use
 
@@ -107,7 +107,7 @@ I build practical, end-to-end web products and small tools that feel reliable an
   </svg>
 </div>
 
----
+
 
 ### Recent projects
 
