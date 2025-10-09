@@ -39,7 +39,7 @@
 
 ### About me
 
-I build practical, end-to-end web products and small tools. On the web side I work with **Next.js**, **Nest.js**, **Prisma**, and **PostgreSQL**. I also have hands-on experience with realtime features over **Socket.IO** and mobile UI in **Flutter**. I’m expanding my applied AI skills in **Python** and enjoy wiring ML features into product workflows when it improves the user experience.
+I build practical, end-to-end web products and small tools that feel reliable and easy to pick up. I’m comfortable owning a feature from problem definition to release, including the boring parts like edge cases, empty states, and deployment checklists. My goals: fast feedback loops, clear communication, and fewer surprises in production.
 
 <!-- Petal divider -->
 <div align="center">
