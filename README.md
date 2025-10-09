@@ -5,7 +5,7 @@
 
 <!-- Feather-palette banner (responsive) -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="Atika Hossain Ainun banner" width="100%" height="200">
+  <img src="./assets/banner.svg" alt="Atika Hossain Ainun banner" width="120%" height="200">
 </p>
 
 
