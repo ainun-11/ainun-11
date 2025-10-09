@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1200 220" width="1200" height="220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Atika Hossain Ainun banner">
+<svg viewBox="0 0 1200 220" width="1300" height="220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Atika Hossain Ainun banner">
   <defs>
     <!-- Feather palette: taupe → blue veil → golden olive → mint → angel milk -->
     <linearGradient id="featherGradient" x1="0%" y1="100%" x2="100%" y2="0%">
@@ -27,3 +27,4 @@
   <text x="600" y="138" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
         font-weight="600" font-size="20" text-anchor="middle" fill="#3a3a3a">Junior Full-Stack / Web / Cross-Platform Developer</text>
 </svg>
+
