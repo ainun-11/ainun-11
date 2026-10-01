@@ -149,7 +149,7 @@ I build practical, end-to-end web products and small tools that feel reliable an
   <a href="https://www.linkedin.com/in/atika-h-ainun-a962802b1">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-8690a2?style=for-the-badge&labelColor=e0ded4&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
   </a>
-  <a href="atikaainun11@gmail.com">
+  <a href="mailto:atikaainun11@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-b4d1d3?style=for-the-badge&labelColor=e0ded4&logo=gmail&logoColor=EA4335" alt="Email">
   </a>
   <a href="https://github.com/ainun-11?tab=repositories">
